@@ -28,11 +28,13 @@
 - Example codes to run:
   - $ make
   - $./vm-sim -i traces/<trace >.trace -rrandom
-\\
 
+
+  
   - $ make
   - $./vm-sim -i traces/<trace >.trace -rclocksweep
-\\
 
+  
+  
   - $ make
   - $./vm-sim -i traces/<trace >.trace -rfifo
